@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../base"
+		},
+		{
+			"path": "../Dynamic_crypto"
+		},
+		{
+			"path": "../env"
+		},
+		{
+			"path": "../header_images"
+		},
+		{
+			"path": "../service_icons"
+		},
+		{
+			"path": "../static"
+		},
+		{
+			"path": "."
+		}
+	]
+}
